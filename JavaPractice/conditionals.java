@@ -1,8 +1,9 @@
+package JavaPractice;
 import Project1;
 
 import java.util.Scanner;
 
-public class Conditionals {
+public class conditionals {
 
 	public static void main(String[] args) {
 		

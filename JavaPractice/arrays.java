@@ -1,6 +1,7 @@
+package JavaPractice;
 import java.util.Scanner;
 
-public class Arrays {
+public class arrays {
 
 	public static void main(String[] args) {
 		
