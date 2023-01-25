@@ -7,7 +7,7 @@ public class oneFunctionCalc {
 		float y;
 		
 		Scanner scan = new Scanner(System.in);
-		
+		scan.close();
 		System.out.print("Enter x: ");
 		
 		x = scan.nextFloat();

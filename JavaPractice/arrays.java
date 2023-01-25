@@ -27,7 +27,7 @@ public class arrays {
 			System.out.println(studentNames[0]);
 			
 			Scanner user = new Scanner(System.in);
-			
+			user.close();
 			String newList[]= new String [10];
 			System.out.print("Enter newList: ");
 			newList[3] = user.nextLine();

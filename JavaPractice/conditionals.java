@@ -1,5 +1,5 @@
 package JavaPractice;
-import Project1;
+
 
 import java.util.Scanner;
 
@@ -16,6 +16,7 @@ public class conditionals {
 //		System.out.println(ave);
 		
 		Scanner grades = new Scanner(System.in);
+		grades.close();
 		
 		System.out.print("Math    : ");
 		float math = grades.nextFloat();
